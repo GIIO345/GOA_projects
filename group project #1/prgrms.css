@@ -1,0 +1,63 @@
+
+
+body{
+    background-image: url(image/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#header {
+    text-align: center;
+    border-bottom: 3px solid white;
+    padding: 15px 0;
+    background: linear-gradient(rgb(113, 113, 207), rgb(29, 29, 61));
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p1{
+    border: 3px solid;
+    border-radius: 12px;
+    width: 600px;
+    padding: 7px;
+    text-align:left;
+    color: aliceblue;
+    background:linear-gradient(rgb(113, 113, 207),rgb(29, 29, 61));
+    line-height: 1.6;
+    font-size: 1.1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#p2{
+    border: 3px solid;
+    border-radius: 12px;
+    width: 600px;
+    padding: 7px;
+    text-align:left;
+    color: aliceblue;
+    background:linear-gradient(rgb(113, 113, 207),rgb(29, 29, 61));
+    line-height: 1.6;
+    font-size: 1.1rem;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link{
+    color: aliceblue;  
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:visited{
+    color: burlywood;
+}
